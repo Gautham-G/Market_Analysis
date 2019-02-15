@@ -1,2 +1,3 @@
 # Stock-Market-Analysis
-A data analysis project for the course Data Science Analysis (EP4031), Spring 2019
+Analysing stock market data to make statistical inferences as well as try to provide a prediction of stock movements
+
