@@ -9,15 +9,14 @@ It is a 40Mb zip file which could nto be uploaded on this repository.
 The code given uses TensorFlow for the neural network. One can install it by:
  pip install tensorflow==2.0.0-alpha0 for Linux
  or just 
- pip install tensorflow
- 
- or go on the Tensorflow website for more details.
+ pip install tensorflow 
+ or go to the Tensorflow website for more details.
 
 # Other Libraries
-Please ensure you have numpy and matplotlib install on your system before running the code.
+Please ensure you have numpy and matplotlib installed on your system before running the code.
 
 For numpy:
 pip3 install numpy
 
-For Matplotib:
+For matplotib:
 pip3 install matplotlib
