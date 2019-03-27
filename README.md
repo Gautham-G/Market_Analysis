@@ -15,6 +15,7 @@ The code given uses TensorFlow for the neural network. One can install it by:
 
 # Other Libraries
 Please ensure you have numpy and matplotlib install on your system before running the code.
+
 For numpy:
 pip3 install numpy
 
